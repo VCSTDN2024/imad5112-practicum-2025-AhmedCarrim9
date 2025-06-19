@@ -1,3 +1,5 @@
+https://github.com/VCSTDN2024/imad5112-practicum-2025-AhmedCarrim9/tree/main
+
 PlaylistManagerApp is a native Android application developed in Kotlin using Android Studio. 
 The objective of this app is to help users create and manage a small playlist of songs they like.
 Designed in a simple and understandable way, this app provides a practical demonstration of core programming concepts such as arrays, loops, user input validation, and navigation between activities 
